@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QRcode</string>
+    <string name="toggle_flash">Toggle Flash</string>
+    <string name="action_settings">Settings</string>
+    <string name="scanned_data">Scanned Data</string>
+    <string name="signout">Signout</string>
+    <string name="hello">Hello</string>
+    <string name="qrcode">QRcode</string>
+    <string name="scaan_qrcode">Scaan QRcode</string>
+    <string name="data">data</string>
+    <string name="image">image</string>
+    <string name="image2">image2</string>
+    <string name="image3">image3</string>
+    <string name="scan_qrcode">scan_qrcode</string>
+</resources>
